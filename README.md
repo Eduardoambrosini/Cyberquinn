@@ -22,5 +22,3 @@
   
 </div>
 
-![Snake animation](https://github.com/eduardoambrosinibergamini21-spec/Cyberquinn/blob/output/github-contribution-grid-snake.svg)
-
